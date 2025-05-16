@@ -349,8 +349,6 @@ style="background-color:#E8E8E8; font-family:algerian;" >
     reserved.
     </div>
   </footer>
-
-  <!-- /.control-sidebar -->
   <div class="control-sidebar-bg"></div>
 
 </div>
